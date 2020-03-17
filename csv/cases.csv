@@ -1,0 +1,233 @@
+last_update,case_number,hospital,patient,public_health_unit,status,transmission
+2020-03-09 10:30:00,32,brampton civic hospital,50s male,peel public health,self-isolating,travel (germany)
+2020-03-09 10:30:00,33,north york general hospital,80s male,toronto public health,self-isolating,travel (iran)
+2020-03-09 10:30:00,34,north york general hospital,70s female,toronto public health,self-isolating,travel (iran)
+2020-03-10 10:30:00,36,st. joseph's health centre,40s male,toronto public health,self-isolating,travel (switzerland)
+2020-03-11 10:30:00,37,health sciences north,50s male,sudbury and district health unit,self-isolating,pending
+2020-03-11 10:30:00,38,mackenzie health,30s female,york public health,self-isolating,travel (egypt)
+2020-03-11 10:30:00,39,toronto western,30s male,toronto public health,self-isolating,travel (usa)
+2020-03-11 10:30:00,40,ottawa hospital,40s male,ottawa public health,self-isolating,travel (austria)
+2020-03-11 10:30:00,41,hamilton health sciences,30s female,halton public health,self-isolating,travel (usa)
+2020-03-12 10:30:00,43,pending,50s male,hamilton public health,self-isolating,travel (pending)
+2020-03-12 10:30:00,44,n/a,<18 female,peel public health,self-isolating,close contact
+2020-03-12 10:30:00,45,sunnybrook,20s male,toronto public health,self-isolating,close contact
+2020-03-12 10:30:00,46,mississauga hospital,70s male,toronto public health,self-isolating,travel (usa)
+2020-03-12 10:30:00,47,st michael’s hospital,40s male,toronto public health,self-isolating,travel (usa)
+2020-03-12 10:30:00,48,grand river hospital,60s female,region of waterloo public health,self-isolating,travel (puerto rico)
+2020-03-12 10:30:00,49,queensway carlton hospital,40s female,ottawa public health,self-isolating,travel (italy)
+2020-03-12 10:30:00,50,trillium health partners,20s female,toronto public health,self-isolating,travel (europe)
+2020-03-12 10:30:00,51,joseph brant hospital,40s female,halton public health,self-isolating,"travel (usa, costa rica)"
+2020-03-12 10:30:00,52,north york general,<18 male,toronto public health,self-isolating,close contact
+2020-03-12 10:30:00,53,north york general,30s male,toronto public health,self-isolating,close contact
+2020-03-12 10:30:00,54,sunnybrook,20s male,toronto public health,self-isolating,travel (usa)
+2020-03-12 10:30:00,55,sunnybrook,60s male,toronto public health,self-isolating,travel (usa)
+2020-03-12 10:30:00,56,sunnybrook,60s female,toronto public health,self-isolating,travel (usa)
+2020-03-12 10:30:00,57,pending,20s female,peel public health,self-isolating,travel (pending)
+2020-03-12 10:30:00,58,grand river hospital,40s male,region of waterloo public health,self-isolating,travel (usa)
+2020-03-12 10:30:00,59,royal victoria hospital,40s male,simcoe muskoka district health unit,self-isolating,travel (spain)
+2020-03-13 10:30:00,60,pending,20s female,york,self-isolating,travel (pending)
+2020-03-13 10:30:00,61,pending,20s female,peel,self-isolating,close contact
+2020-03-13 10:30:00,62,pending,60s female,peel,self-isolating,"travel (pending), close contact"
+2020-03-13 10:30:00,63,sunnybrook,70s male,toronto,self-isolating,travel (egypt)
+2020-03-13 10:30:00,64,sunnybrook,70s female,toronto,self-isolating,travel (egypt)
+2020-03-13 10:30:00,65,mt. sinai,40s male,toronto,self-isolating,"travel (usa), close contact"
+2020-03-13 10:30:00,66,pending,40s female,ottawa,self-isolating,travel (england)
+2020-03-13 10:30:00,67,pending,80s male,niagara,hospitalized,pending
+2020-03-13 10:30:00,68,sunnybrook,60s male,toronto,self-isolating,travel (usa)
+2020-03-13 10:30:00,69,sunnybrook,20s female,toronto,self-isolating,travel (usa)
+2020-03-13 10:30:00,70,sunnybrook,60s female,toronto,self-isolating,travel (usa)
+2020-03-13 10:30:00,71,sunnybrook,20s male,toronto,self-isolating,close contact
+2020-03-13 10:30:00,72,pending,20s male,peel,self-isolating,travel (pending)
+2020-03-13 10:30:00,73,pending,50s female,waterloo,self-isolating,"travel (pending), close contact"
+2020-03-13 10:30:00,74,pending,20s female,peel,self-isolating,travel (pending)
+2020-03-13 10:30:00,75,pending,pending,toronto,self-isolating,pending
+2020-03-13 10:30:00,76,pending,pending,toronto,self-isolating,pending
+2020-03-13 10:30:00,77,pending,pending,toronto,self-isolating,pending
+2020-03-13 10:30:00,78,pending,pending,toronto,self-isolating,pending
+2020-03-13 10:30:00,79,pending,pending,toronto,self-isolating,pending
+2020-03-14 10:30:00,80,pending,pending,ottawa,self-isolating,pending
+2020-03-14 10:30:00,81,pending,pending,toronto,self-isolating,pending
+2020-03-14 10:30:00,82,pending,pending,peel,self-isolating,pending
+2020-03-14 10:30:00,83,pending,60s male,toronto,self-isolating,pending
+2020-03-14 10:30:00,84,pending,pending,toronto,self-isolating,pending
+2020-03-14 10:30:00,85,st. mary's general hospital,40s male,waterloo,self-isolating,"travel (usa), caribbean cruise"
+2020-03-14 10:30:00,86,pending,pending,toronto,self-isolating,pending
+2020-03-14 10:30:00,87,lakeridge health oshawa,70s female,durham,self-isolating,travel (multiple locations including egypt)
+2020-03-14 10:30:00,88,pending,pending,toronto,self-isolating,pending
+2020-03-14 10:30:00,89,pending,pending,ottawa,self-isolating,pending
+2020-03-14 10:30:00,90,pending,pending,waterloo,self-isolating,pending
+2020-03-14 10:30:00,91,pending,pending,toronto,self-isolating,pending
+2020-03-14 10:30:00,92,london health sciences,50s female,middlesex london,self-isolating,pending
+2020-03-14 10:30:00,93,northumberland hills hospital,60s female,"haliburton, kawartha, pine ridge district",self-isolating,travel (spain and portugal)
+2020-03-14 10:30:00,94,pending,pending,toronto,self-isolating,pending
+2020-03-14 10:30:00,95,pending,pending,toronto,self-isolating,pending
+2020-03-14 10:30:00,96,lakeridge health (oshawa),50s male,durham,self-isolating,travel (asia)
+2020-03-14 10:30:00,97,lakeridge health (oshawa),60s female,durham,self-isolating,travel (asia)
+2020-03-14 10:30:00,98,pending,pending,huron perth,self-isolating,pending
+2020-03-14 10:30:00,99,joseph brant,50s female,halton,self-isolating,travel (usa)
+2020-03-14 10:30:00,100,pending,pending,hamilton,self-isolating,pending
+2020-03-14 10:30:00,101,pending,pending,toronto,self-isolating,pending
+2020-03-14 17:30:00,80,pending,pending,ottawa,self-isolating,pending
+2020-03-14 17:30:00,81,pending,pending,toronto,self-isolating,pending
+2020-03-14 17:30:00,82,pending,pending,peel,self-isolating,pending
+2020-03-14 17:30:00,83,pending,60s male,toronto,self-isolating,pending
+2020-03-14 17:30:00,84,pending,pending,toronto,self-isolating,pending
+2020-03-14 17:30:00,85,st. mary's general hospital,40s male,waterloo,self-isolating,"travel (usa), caribbean cruise"
+2020-03-14 17:30:00,86,pending,pending,toronto,self-isolating,pending
+2020-03-14 17:30:00,87,lakeridge health oshawa,70s female,durham,self-isolating,travel (multiple locations including egypt)
+2020-03-14 17:30:00,88,pending,pending,toronto,self-isolating,pending
+2020-03-14 17:30:00,89,pending,pending,ottawa,self-isolating,pending
+2020-03-14 17:30:00,90,pending,pending,waterloo,self-isolating,pending
+2020-03-14 17:30:00,91,pending,pending,toronto,self-isolating,pending
+2020-03-14 17:30:00,92,london health sciences,50s female,middlesex london,self-isolating,pending
+2020-03-14 17:30:00,93,northumberland hills hospital,60s female,"haliburton, kawartha, pine ridge district",self-isolating,travel (spain and portugal)
+2020-03-14 17:30:00,94,pending,pending,toronto,self-isolating,pending
+2020-03-14 17:30:00,95,pending,pending,toronto,self-isolating,pending
+2020-03-14 17:30:00,96,lakeridge health (oshawa),50s male,durham,self-isolating,travel (asia)
+2020-03-14 17:30:00,97,lakeridge health (oshawa),60s female,durham,self-isolating,travel (asia)
+2020-03-14 17:30:00,98,pending,pending,huron perth,self-isolating,pending
+2020-03-14 17:30:00,99,joseph brant,50s female,halton,self-isolating,travel (usa)
+2020-03-14 17:30:00,100,pending,pending,hamilton,self-isolating,pending
+2020-03-14 17:30:00,101,pending,pending,toronto,self-isolating,pending
+2020-03-15 10:30:00,104,pending,pending,hamilton,self-isolating,pending
+2020-03-15 10:30:00,105,pending,pending,hamilton,self-isolating,pending
+2020-03-15 10:30:00,106,pending,pending,toronto,self-isolating,pending
+2020-03-15 10:30:00,107,pending,pending,waterloo,self-isolating,pending
+2020-03-15 10:30:00,108,pending,pending,waterloo,self-isolating,pending
+2020-03-15 10:30:00,109,pending,pending,durham,self-isolating,pending
+2020-03-15 10:30:00,110,pending,pending,durham,self-isolating,pending
+2020-03-15 10:30:00,111,pending,pending,toronto,self-isolating,pending
+2020-03-15 10:30:00,112,pending,pending,toronto,self-isolating,pending
+2020-03-15 10:30:00,113,pending,pending,peel,self-isolating,pending
+2020-03-15 10:30:00,114,pending,pending,ottawa,self-isolating,pending
+2020-03-15 10:30:00,115,pending,pending,ottawa,self-isolating,pending
+2020-03-15 10:30:00,116,pending,pending,haliburton kawartha pineridge,self-isolating,pending
+2020-03-15 10:30:00,117,pending,pending,ottawa,self-isolating,pending
+2020-03-15 10:30:00,118,st. catharines,50s female,niagara,self-isolating,travel (egypt)
+2020-03-15 10:30:00,119,pending,pending,peel,self-isolating,pending
+2020-03-15 10:30:00,120,pending,pending,toronto,self-isolating,pending
+2020-03-15 10:30:00,121,pending,pending,toronto,self-isolating,pending
+2020-03-15 10:30:00,122,pending,pending,simcoe muskoka,self-isolating,pending
+2020-03-15 10:30:00,123,pending,pending,hamilton,self-isolating,pending
+2020-03-15 10:30:00,124,pending,pending,pending,self-isolating,pending
+2020-03-15 10:30:00,125,pending,pending,simcoe muskoka,hospitalized,pending
+2020-03-15 10:30:00,126,pending,pending,peel,self-isolating,pending
+2020-03-15 10:30:00,127,pending,pending,peel,self-isolating,pending
+2020-03-15 10:30:00,128,pending,pending,york,self-isolating,pending
+2020-03-15 10:30:00,129,pending,pending,peel,self-isolating,pending
+2020-03-15 10:30:00,130,pending,pending,ottawa,self-isolating,pending
+2020-03-15 10:30:00,131,pending,pending,ottawa,self-isolating,pending
+2020-03-15 10:30:00,132,pending,pending,york,self-isolating,pending
+2020-03-15 10:30:00,133,pending,pending,toronto,self-isolating,pending
+2020-03-15 10:30:00,134,pending,pending,toronto,self-isolating,pending
+2020-03-15 10:30:00,135,pending,pending,york,self-isolating,pending
+2020-03-15 10:30:00,136,pending,pending,toronto,self-isolating,pending
+2020-03-15 10:30:00,137,pending,pending,toronto,self-isolating,pending
+2020-03-15 10:30:00,138,pending,pending,toronto,self-isolating,pending
+2020-03-15 10:30:00,139,pending,pending,toronto,self-isolating,pending
+2020-03-15 10:30:00,140,pending,pending,toronto,self-isolating,pending
+2020-03-15 10:30:00,141,pending,pending,toronto,self-isolating,pending
+2020-03-15 10:30:00,142,pending,pending,toronto,self-isolating,pending
+2020-03-15 17:30:00,104,pending,pending,hamilton,self-isolating,pending
+2020-03-15 17:30:00,105,pending,pending,hamilton,self-isolating,pending
+2020-03-15 17:30:00,106,pending,pending,toronto,self-isolating,pending
+2020-03-15 17:30:00,107,pending,pending,waterloo,self-isolating,pending
+2020-03-15 17:30:00,108,pending,pending,waterloo,self-isolating,pending
+2020-03-15 17:30:00,109,pending,pending,durham,self-isolating,pending
+2020-03-15 17:30:00,110,pending,pending,durham,self-isolating,pending
+2020-03-15 17:30:00,111,pending,pending,toronto,self-isolating,pending
+2020-03-15 17:30:00,112,pending,pending,toronto,self-isolating,pending
+2020-03-15 17:30:00,113,pending,pending,peel,self-isolating,pending
+2020-03-15 17:30:00,114,pending,pending,ottawa,self-isolating,pending
+2020-03-15 17:30:00,115,pending,pending,ottawa,self-isolating,pending
+2020-03-15 17:30:00,116,pending,pending,haliburton kawartha pineridge,self-isolating,pending
+2020-03-15 17:30:00,117,pending,pending,ottawa,self-isolating,pending
+2020-03-15 17:30:00,118,st. catharines,50s female,niagara,self-isolating,travel (egypt)
+2020-03-15 17:30:00,119,pending,pending,peel,self-isolating,pending
+2020-03-15 17:30:00,120,pending,pending,toronto,self-isolating,pending
+2020-03-15 17:30:00,121,pending,pending,toronto,self-isolating,pending
+2020-03-15 17:30:00,122,southlake regional health centre,40s female,simcoe muskoka,self-isolating,travel (pending)
+2020-03-15 17:30:00,123,pending,pending,hamilton,self-isolating,pending
+2020-03-15 17:30:00,124,pending,pending,pending,self-isolating,pending
+2020-03-15 17:30:00,125,royal victoria regional health centre,70s male,simcoe muskoka,hospitalized,pending
+2020-03-15 17:30:00,126,pending,pending,peel,self-isolating,pending
+2020-03-15 17:30:00,127,pending,pending,peel,self-isolating,pending
+2020-03-15 17:30:00,128,pending,pending,york,self-isolating,pending
+2020-03-15 17:30:00,129,pending,pending,peel,self-isolating,pending
+2020-03-15 17:30:00,130,pending,pending,ottawa,self-isolating,pending
+2020-03-15 17:30:00,131,pending,pending,ottawa,self-isolating,pending
+2020-03-15 17:30:00,132,pending,pending,york,self-isolating,pending
+2020-03-15 17:30:00,133,pending,pending,toronto,self-isolating,pending
+2020-03-15 17:30:00,134,pending,pending,toronto,self-isolating,pending
+2020-03-15 17:30:00,135,pending,pending,york,self-isolating,pending
+2020-03-15 17:30:00,136,pending,pending,toronto,self-isolating,pending
+2020-03-15 17:30:00,137,pending,pending,toronto,self-isolating,pending
+2020-03-15 17:30:00,138,pending,pending,toronto,self-isolating,pending
+2020-03-15 17:30:00,139,pending,pending,toronto,self-isolating,pending
+2020-03-15 17:30:00,140,pending,pending,toronto,self-isolating,pending
+2020-03-15 17:30:00,141,pending,pending,toronto,self-isolating,pending
+2020-03-15 17:30:00,142,pending,pending,toronto,self-isolating,pending
+2020-03-16 10:30:00,146,pending,pending,hamilton,self-isolating,pending
+2020-03-16 10:30:00,147,pending,pending,hamilton,self-isolating,pending
+2020-03-16 10:30:00,148,pending,pending,ottawa,self-isolating,pending
+2020-03-16 10:30:00,149,headwaters health centre,40s male,wellington dufferin guelph,self-isolating,travel (usa)
+2020-03-16 10:30:00,150,health sciences north,50s female,sudbury,self-isolating,close contact
+2020-03-16 10:30:00,151,pending,pending,durham,self-isolating,pending
+2020-03-16 10:30:00,152,pending,pending,york,self-isolating,pending
+2020-03-16 10:30:00,153,pending,pending,peel,self-isolating,pending
+2020-03-16 10:30:00,154,pending,pending,niagara,self-isolating,pending
+2020-03-16 10:30:00,155,pending,pending,hamilton,self-isolating,pending
+2020-03-16 10:30:00,156,pending,pending,peel,self-isolating,pending
+2020-03-16 10:30:00,157,joseph brant,30s male,halton,self-isolating,travel (usa)
+2020-03-16 10:30:00,158,pending,pending,york,self-isolating,pending
+2020-03-16 10:30:00,159,pending,pending,york,self-isolating,pending
+2020-03-16 10:30:00,160,pending,pending,toronto,self-isolating,pending
+2020-03-16 10:30:00,161,pending,pending,toronto,self-isolating,pending
+2020-03-16 10:30:00,162,pending,pending,hamilton,self-isolating,pending
+2020-03-16 10:30:00,163,pending,pending,peel,self-isolating,pending
+2020-03-16 10:30:00,164,pending,pending,peel,self-isolating,pending
+2020-03-16 10:30:00,165,pending,pending,york,self-isolating,pending
+2020-03-16 10:30:00,166,pending,pending,york,self-isolating,pending
+2020-03-16 10:30:00,167,pending,pending,ottawa,self-isolating,pending
+2020-03-16 10:30:00,168,pending,pending,toronto,self-isolating,pending
+2020-03-16 10:30:00,169,pending,pending,ottawa,self-isolating,pending
+2020-03-16 10:30:00,170,pending,pending,toronto,self-isolating,pending
+2020-03-16 10:30:00,171,pending,pending,toronto,self-isolating,pending
+2020-03-16 10:30:00,172,pending,pending,toronto,self-isolating,pending
+2020-03-16 10:30:00,173,pending,pending,toronto,self-isolating,pending
+2020-03-16 10:30:00,174,pending,pending,toronto,self-isolating,pending
+2020-03-16 10:30:00,175,pending,pending,toronto,self-isolating,pending
+2020-03-16 10:30:00,176,pending,pending,toronto,self-isolating,pending
+2020-03-16 10:30:00,177,pending,pending,toronto,self-isolating,pending
+2020-03-16 17:30:00,146,pending,pending,hamilton,self-isolating,pending
+2020-03-16 17:30:00,147,pending,pending,hamilton,self-isolating,pending
+2020-03-16 17:30:00,148,pending,pending,ottawa,self-isolating,pending
+2020-03-16 17:30:00,149,headwaters health centre,40s male,wellington dufferin guelph,self-isolating,travel (usa)
+2020-03-16 17:30:00,150,health sciences north,50s female,sudbury,self-isolating,close contact
+2020-03-16 17:30:00,151,pending,pending,durham,self-isolating,pending
+2020-03-16 17:30:00,152,pending,pending,york,self-isolating,pending
+2020-03-16 17:30:00,153,pending,pending,peel,self-isolating,pending
+2020-03-16 17:30:00,154,pending,pending,niagara,self-isolating,pending
+2020-03-16 17:30:00,155,pending,pending,hamilton,self-isolating,pending
+2020-03-16 17:30:00,156,pending,pending,peel,self-isolating,pending
+2020-03-16 17:30:00,157,joseph brant,30s male,halton,self-isolating,travel (usa)
+2020-03-16 17:30:00,158,pending,pending,york,self-isolating,pending
+2020-03-16 17:30:00,159,pending,pending,york,self-isolating,pending
+2020-03-16 17:30:00,160,pending,pending,toronto,self-isolating,pending
+2020-03-16 17:30:00,161,pending,pending,toronto,self-isolating,pending
+2020-03-16 17:30:00,162,pending,pending,hamilton,self-isolating,pending
+2020-03-16 17:30:00,163,pending,pending,peel,self-isolating,pending
+2020-03-16 17:30:00,164,pending,pending,peel,self-isolating,pending
+2020-03-16 17:30:00,165,pending,pending,york,self-isolating,pending
+2020-03-16 17:30:00,166,pending,pending,york,self-isolating,pending
+2020-03-16 17:30:00,167,pending,pending,ottawa,self-isolating,pending
+2020-03-16 17:30:00,168,pending,pending,toronto,self-isolating,pending
+2020-03-16 17:30:00,169,pending,pending,ottawa,self-isolating,pending
+2020-03-16 17:30:00,170,pending,pending,toronto,self-isolating,pending
+2020-03-16 17:30:00,171,pending,pending,toronto,self-isolating,pending
+2020-03-16 17:30:00,172,pending,pending,toronto,self-isolating,pending
+2020-03-16 17:30:00,173,pending,pending,toronto,self-isolating,pending
+2020-03-16 17:30:00,174,pending,pending,toronto,self-isolating,pending
+2020-03-16 17:30:00,175,pending,pending,toronto,self-isolating,pending
+2020-03-16 17:30:00,176,pending,pending,toronto,self-isolating,pending
+2020-03-16 17:30:00,177,pending,pending,toronto,self-isolating,pending

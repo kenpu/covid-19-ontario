@@ -18,7 +18,7 @@ def wayback_url(t):
 
 def get_snapshot(t):
     filename = "%s.html" % t
-    if os.path.exists(filename):
+    if os.path.exists(filename) and os.path.getsize(filename) > 0:
         raise Exception("Skipping %s" % t)
 
     _url = wayback_url(t)
