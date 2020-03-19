@@ -231,3 +231,42 @@ last_update,case_number,hospital,patient,public_health_unit,status,transmission
 2020-03-16 17:30:00,175,pending,pending,toronto,self-isolating,pending
 2020-03-16 17:30:00,176,pending,pending,toronto,self-isolating,pending
 2020-03-16 17:30:00,177,pending,pending,toronto,self-isolating,pending
+2020-03-17 10:30:00,178,pending,pending,hamilton,self-isolating,pending
+2020-03-17 10:30:00,179,pending,pending,hamilton,self-isolating,pending
+2020-03-17 10:30:00,180,pending,pending,hamilton,self-isolating,pending
+2020-03-17 10:30:00,181,pending,pending,hamilton,self-isolating,pending
+2020-03-17 10:30:00,182,pending,pending,hamilton,self-isolating,pending
+2020-03-17 10:30:00,183,pending,pending,middlesex london,self-isolating,pending
+2020-03-17 10:30:00,184,pending,pending,middlesex london,self-isolating,pending
+2020-03-17 10:30:00,185,southlake,60s male,york,self-isolating,travel (costa rica)
+2020-03-17 17:30:00,178,pending,pending,hamilton,self-isolating,pending
+2020-03-17 17:30:00,179,pending,pending,hamilton,self-isolating,pending
+2020-03-17 17:30:00,180,pending,pending,hamilton,self-isolating,pending
+2020-03-17 17:30:00,181,pending,pending,hamilton,self-isolating,pending
+2020-03-17 17:30:00,182,pending,pending,hamilton,self-isolating,pending
+2020-03-17 17:30:00,183,london health sciences centre,20s female,middlesex london,self-isolating,travel (usa)
+2020-03-17 17:30:00,184,london health sciences centre,40s female,middlesex london,self-isolating,travel (st. maarten)
+2020-03-17 17:30:00,185,southlake,60s male,york,self-isolating,travel (costa rica)
+2020-03-18 10:30:00,190,,50s female,halton,self-isolating,travel (carribean)
+2020-03-18 10:30:00,191,,20s female,york,self-isolating,close contact
+2020-03-18 10:30:00,192,,20s male,peel,self-isolating,"travel (europe), close contact"
+2020-03-18 10:30:00,193,,50s female,toronto,self-isolating,"travel (usa), close contact"
+2020-03-18 10:30:00,194,,30s male,toronto,self-isolating,travel (brazil)
+2020-03-18 10:30:00,195,,50s female,halton,self-isolating,"travel (usa, carribean)"
+2020-03-18 10:30:00,196,,50s female,halton,self-isolating,"travel (usa), close contact"
+2020-03-18 10:30:00,197,,60s female,peel,self-isolating,close contact
+2020-03-18 10:30:00,198,,50s male,toronto,self-isolating,"travel (japan, uk, germany)"
+2020-03-18 10:30:00,199,,40s male,halton,self-isolating,pending
+2020-03-18 10:30:00,200,,40s female,waterloo,self-isolating,"travel (pakistan, turkey)"
+2020-03-18 10:30:00,201,,70s male,hamilton,self-isolating,travel (mexico)
+2020-03-18 10:30:00,202,,20s male,ottawa,self-isolating,travel (usa)
+2020-03-18 10:30:00,203,,60s female,middlesex london,self-isolating,pending
+2020-03-18 10:30:00,204,,30s female,hamilton,self-isolating,travel (carribean)
+2020-03-18 10:30:00,205,,50s male,chatham kent,self-isolating,travel (carribean)
+2020-03-18 10:30:00,206,,60s male,grey bruce,self-isolating,travel (india)
+2020-03-18 10:30:00,207,,60s male,simcoe muskoka,self-isolating,travel (austria)
+2020-03-18 10:30:00,208,,40s female,brant,self-isolating,travel (mexico)
+2020-03-18 10:30:00,209,,50s female,algoma,self-isolating,travel (usa)
+2020-03-18 10:30:00,210,,pending,pending,self-isolating,pending
+2020-03-18 10:30:00,211,,pending,pending,self-isolating,pending
+2020-03-18 10:30:00,212,,pending,pending,self-isolating,pending
