@@ -1,4 +1,7 @@
-all: download extract
+all: ontario
+
+ontario:
+	python3 src/download_ontario.py
 
 extract:
 	python3 src/extract.py

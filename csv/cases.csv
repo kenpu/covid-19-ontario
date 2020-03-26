@@ -270,3 +270,655 @@ last_update,case_number,hospital,patient,public_health_unit,status,transmission
 2020-03-18 10:30:00,210,,pending,pending,self-isolating,pending
 2020-03-18 10:30:00,211,,pending,pending,self-isolating,pending
 2020-03-18 10:30:00,212,,pending,pending,self-isolating,pending
+2020-03-19 10:30:00,215,,40s male,ottawa,self-isolating,"travel (spain, belgium, canary islands), close contact"
+2020-03-19 10:30:00,216,,60s female,ottawa,self-isolating,"travel (germany, malta)"
+2020-03-19 10:30:00,217,,60s male,eastern ontario,self-isolating,travel (uk)
+2020-03-19 10:30:00,218,,50s female,halton,self-isolating,"travel (spain, finland)"
+2020-03-19 10:30:00,219,,50s male,halton,self-isolating,"travel (usa, san juan)"
+2020-03-19 10:30:00,220,,50s female,peel,pending,"travel (cruise), close contact"
+2020-03-19 10:30:00,221,,60s female,hamilton,self-isolating,travel (usa)
+2020-03-19 10:30:00,222,,20s male,toronto,self-isolating,travel (england)
+2020-03-19 10:30:00,223,,60s male,hamilton,self-isolating,"travel (usa), close contact"
+2020-03-19 10:30:00,224,,20s male,toronto,self-isolating,pending
+2020-03-19 10:30:00,225,,20s female,waterloo,self-isolating,close contact
+2020-03-19 10:30:00,226,,40s male,toronto,pending,pending
+2020-03-19 10:30:00,227,,30s female,toronto,pending,pending
+2020-03-19 10:30:00,228,,20s female,toronto,pending,pending
+2020-03-19 10:30:00,229,,20s male,toronto,pending,pending
+2020-03-19 10:30:00,230,,80s male,durham,hospitalized,pending
+2020-03-19 10:30:00,231,,40s male,toronto,pending,pending
+2020-03-19 10:30:00,232,,30s female,toronto,pending,pending
+2020-03-19 10:30:00,233,,50s female,peel,self-isolating,travel (manila)
+2020-03-19 10:30:00,234,,50s female,peel,pending,travel (cruise)
+2020-03-19 10:30:00,235,,70s male,haliburton kawartha,pending,travel (europe)
+2020-03-19 10:30:00,236,,pending,pending,pending,pending
+2020-03-19 10:30:00,237,,pending,pending,pending,pending
+2020-03-19 10:30:00,238,,pending,pending,pending,pending
+2020-03-19 10:30:00,239,,pending,pending,pending,pending
+2020-03-19 10:30:00,240,,pending,pending,pending,pending
+2020-03-19 10:30:00,241,,pending,pending,pending,pending
+2020-03-19 10:30:00,242,,pending,pending,pending,pending
+2020-03-19 10:30:00,243,,pending,pending,pending,pending
+2020-03-19 10:30:00,244,,pending,pending,pending,pending
+2020-03-19 10:30:00,245,,pending,pending,pending,pending
+2020-03-19 10:30:00,246,,pending,pending,pending,pending
+2020-03-19 10:30:00,247,,pending,pending,pending,pending
+2020-03-19 10:30:00,248,,pending,pending,pending,pending
+2020-03-19 10:30:00,249,,pending,pending,pending,pending
+2020-03-19 10:30:00,250,,pending,pending,pending,pending
+2020-03-19 10:30:00,251,,pending,pending,pending,pending
+2020-03-19 10:30:00,252,,pending,pending,pending,pending
+2020-03-19 10:30:00,252,,pending,pending,pending,pending
+2020-03-19 10:30:00,254,,pending,pending,pending,pending
+2020-03-19 10:30:00,255,,pending,pending,pending,pending
+2020-03-19 10:30:00,256,,pending,pending,pending,pending
+2020-03-19 10:30:00,257,,pending,pending,pending,pending
+2020-03-19 17:30:00,215,,40s male,ottawa,self-isolating,"travel (spain, belgium, canary islands)"
+2020-03-19 17:30:00,216,,60s female,ottawa,self-isolating,"travel (germany, malta)"
+2020-03-19 17:30:00,217,,60s male,eastern ontario,self-isolating,travel (uk)
+2020-03-19 17:30:00,218,,50s female,halton,self-isolating,"travel (spain, finland)"
+2020-03-19 17:30:00,219,,50s male,halton,self-isolating,"travel (usa, san juan)"
+2020-03-19 17:30:00,220,,50s female,peel,pending,"travel (cruise), close contact"
+2020-03-19 17:30:00,221,,60s female,hamilton,self-isolating,travel (usa)
+2020-03-19 17:30:00,222,,20s male,toronto,self-isolating,travel (england)
+2020-03-19 17:30:00,223,,60s male,hamilton,self-isolating,"travel (usa), close contact"
+2020-03-19 17:30:00,224,,20s male,toronto,self-isolating,pending
+2020-03-19 17:30:00,225,,20s female,waterloo,self-isolating,close contact
+2020-03-19 17:30:00,226,,40s male,toronto,pending,pending
+2020-03-19 17:30:00,227,,30s female,toronto,pending,pending
+2020-03-19 17:30:00,228,,20s female,toronto,pending,pending
+2020-03-19 17:30:00,229,,20s male,toronto,pending,pending
+2020-03-19 17:30:00,230,,80s male,durham,hospitalized,pending
+2020-03-19 17:30:00,231,,40s male,toronto,pending,pending
+2020-03-19 17:30:00,232,,30s female,toronto,pending,pending
+2020-03-19 17:30:00,233,,50s female,peel,self-isolating,travel (manila)
+2020-03-19 17:30:00,234,,50s female,peel,pending,travel (cruise)
+2020-03-19 17:30:00,235,,70s male,haliburton kawartha,pending,travel (europe)
+2020-03-19 17:30:00,236,,pending,pending,pending,pending
+2020-03-19 17:30:00,237,,pending,pending,pending,pending
+2020-03-19 17:30:00,238,,pending,pending,pending,pending
+2020-03-19 17:30:00,239,,pending,pending,pending,pending
+2020-03-19 17:30:00,240,,pending,pending,pending,pending
+2020-03-19 17:30:00,241,,pending,pending,pending,pending
+2020-03-19 17:30:00,242,,pending,pending,pending,pending
+2020-03-19 17:30:00,243,,pending,pending,pending,pending
+2020-03-19 17:30:00,244,,pending,pending,pending,pending
+2020-03-19 17:30:00,245,,pending,pending,pending,pending
+2020-03-19 17:30:00,246,,pending,pending,pending,pending
+2020-03-19 17:30:00,247,,pending,pending,pending,pending
+2020-03-19 17:30:00,248,,pending,pending,pending,pending
+2020-03-19 17:30:00,249,,pending,pending,pending,pending
+2020-03-19 17:30:00,250,,pending,pending,pending,pending
+2020-03-19 17:30:00,251,,pending,pending,pending,pending
+2020-03-19 17:30:00,252,,pending,pending,pending,pending
+2020-03-19 17:30:00,252,,pending,pending,pending,pending
+2020-03-19 17:30:00,254,,pending,pending,pending,pending
+2020-03-19 17:30:00,255,,pending,pending,pending,pending
+2020-03-19 17:30:00,256,,pending,pending,pending,pending
+2020-03-19 17:30:00,257,,pending,pending,pending,pending
+2020-03-20 17:30:00,259,40s male,hamilton,self-isolating,travel (usa)
+2020-03-20 17:30:00,260,30s male,peterborough,self-isolating,close contact
+2020-03-20 17:30:00,261,60s female,"haliburton, kawartha, pine ridge district",self-isolating,travel (cruise)
+2020-03-20 17:30:00,262,60s male,"haliburton, kawartha, pine ridge district",self-isolating,travel (cruise)
+2020-03-20 17:30:00,263,70s female,durham,self-isolating,travel (caribbean cruise)
+2020-03-20 17:30:00,264,80s male,hastings prince edward,self-isolating,travel (bahamas)
+2020-03-20 17:30:00,265,60s male,durham,ltch,pending
+2020-03-20 17:30:00,266,90s female,durham,ltch,pending
+2020-03-20 17:30:00,267,80s female,durham,ltch,pending
+2020-03-20 17:30:00,268,70s male,durham,ltch,pending
+2020-03-20 17:30:00,269,80s male,ottawa,self-isolating,travel (portugal)
+2020-03-20 17:30:00,270,40s male,ottawa,self-isolating,close contact
+2020-03-20 17:30:00,271,40s male,ottawa,self-isolating,close contact
+2020-03-20 17:30:00,272,70s female,hamilton,self-isolating,travel (caribbean cruise)
+2020-03-20 17:30:00,273,70s male,waterloo,hospitalized,pending
+2020-03-20 17:30:00,274,20s female,peel,self-isolating,close contact
+2020-03-20 17:30:00,275,40s female,toronto,self-isolating,close contact
+2020-03-20 17:30:00,276,40s male,peel,self-isolating,pending
+2020-03-20 17:30:00,277,20s female,waterloo,self-isolating,close contact
+2020-03-20 17:30:00,278,50s female,waterloo,self-isolating,travel (caribbean cruise)
+2020-03-20 17:30:00,279,20s male,waterloo,self-isolating,close contact
+2020-03-20 17:30:00,280,50s female,toronto,self-isolating,close contact
+2020-03-20 17:30:00,281,50s female,durham,hospitalized,close contact
+2020-03-20 17:30:00,282,30s male,york,self-isolating,travel (caribbean)
+2020-03-20 17:30:00,283,pending,pending,pending,pending
+2020-03-20 17:30:00,284,pending,pending,pending,pending
+2020-03-20 17:30:00,285,pending,pending,pending,pending
+2020-03-20 17:30:00,286,pending,pending,pending,pending
+2020-03-20 17:30:00,287,pending,pending,pending,pending
+2020-03-20 17:30:00,288,pending,pending,pending,pending
+2020-03-20 17:30:00,289,pending,pending,pending,pending
+2020-03-20 17:30:00,290,pending,pending,pending,pending
+2020-03-20 17:30:00,291,pending,pending,pending,pending
+2020-03-20 17:30:00,292,pending,pending,pending,pending
+2020-03-20 17:30:00,293,pending,pending,pending,pending
+2020-03-20 17:30:00,294,pending,pending,pending,pending
+2020-03-20 17:30:00,295,pending,pending,pending,pending
+2020-03-20 17:30:00,296,pending,pending,pending,pending
+2020-03-20 17:30:00,297,pending,pending,pending,pending
+2020-03-20 17:30:00,298,pending,pending,pending,pending
+2020-03-20 17:30:00,299,pending,pending,pending,pending
+2020-03-20 17:30:00,300,pending,pending,pending,pending
+2020-03-20 17:30:00,301,pending,pending,pending,pending
+2020-03-20 17:30:00,302,pending,pending,pending,pending
+2020-03-20 17:30:00,303,pending,pending,pending,pending
+2020-03-20 17:30:00,304,pending,pending,pending,pending
+2020-03-20 17:30:00,305,pending,pending,pending,pending
+2020-03-20 17:30:00,306,pending,pending,pending,pending
+2020-03-20 17:30:00,307,pending,pending,pending,pending
+2020-03-20 17:30:00,308,pending,pending,pending,pending
+2020-03-21 10:30:00,319,,20s male,hastings prince edward,self-isolating,travel (usa)
+2020-03-21 10:30:00,320,,50s male,durham,self-isolating,close contact
+2020-03-21 10:30:00,321,,50s female,toronto,self-isolating,travel (germany)
+2020-03-21 10:30:00,322,,50s male,simcoe muskoka,self-isolating,travel (usa)
+2020-03-21 10:30:00,323,,20s male,simcoe muskoka,self-isolating,travel (ecuador)
+2020-03-21 10:30:00,324,,< 18 female,york,self-isolating,close contact
+2020-03-21 10:30:00,325,,50s female,york,self-isolating,"travel (germany, austria)"
+2020-03-21 10:30:00,326,,40s female,peel,self-isolating,travel (london)
+2020-03-21 10:30:00,327,,50s male,peel,self-isolating,travel (philippines)
+2020-03-21 10:30:00,328,,50s female,peel,self-isolating,close contact
+2020-03-21 10:30:00,329,,50s female,peel,pending,pending
+2020-03-21 10:30:00,330,,40s male,simcoe muskoka,hospitalized,travel (england)
+2020-03-21 10:30:00,331,,40s female,york,self-isolating,pending
+2020-03-21 10:30:00,332,,60s male,toronto,self-isolating,travel (europe)
+2020-03-21 10:30:00,333,,40s female,york,pending,pending
+2020-03-21 10:30:00,334,,70s female,york,pending,close contact
+2020-03-21 10:30:00,335,,30s male,ottawa,self-isolating,close contact
+2020-03-21 10:30:00,336,,pending,pending,pending,pending
+2020-03-21 10:30:00,337,,pending,pending,pending,pending
+2020-03-21 10:30:00,338,,pending,pending,pending,pending
+2020-03-21 10:30:00,339,,pending,pending,pending,pending
+2020-03-21 10:30:00,340,,pending,pending,pending,pending
+2020-03-21 10:30:00,341,,pending,pending,pending,pending
+2020-03-21 10:30:00,342,,pending,pending,pending,pending
+2020-03-21 10:30:00,343,,pending,pending,pending,pending
+2020-03-21 10:30:00,344,,pending,pending,pending,pending
+2020-03-21 10:30:00,345,,pending,pending,pending,pending
+2020-03-21 10:30:00,346,,pending,pending,pending,pending
+2020-03-21 10:30:00,347,,pending,pending,pending,pending
+2020-03-21 10:30:00,348,,pending,pending,pending,pending
+2020-03-21 10:30:00,349,,pending,pending,pending,pending
+2020-03-21 10:30:00,350,,pending,pending,pending,pending
+2020-03-21 10:30:00,351,,pending,pending,pending,pending
+2020-03-21 10:30:00,352,,pending,pending,pending,pending
+2020-03-21 10:30:00,353,,pending,pending,pending,pending
+2020-03-21 10:30:00,354,,pending,pending,pending,pending
+2020-03-21 10:30:00,355,,pending,pending,pending,pending
+2020-03-21 10:30:00,356,,pending,pending,pending,pending
+2020-03-21 10:30:00,357,,pending,pending,pending,pending
+2020-03-21 10:30:00,358,,pending,pending,pending,pending
+2020-03-21 10:30:00,359,,pending,pending,pending,pending
+2020-03-21 10:30:00,360,,pending,pending,pending,pending
+2020-03-21 10:30:00,361,,pending,pending,pending,pending
+2020-03-21 10:30:00,362,,pending,pending,pending,pending
+2020-03-21 10:30:00,363,,pending,pending,pending,pending
+2020-03-21 10:30:00,364,,pending,pending,pending,pending
+2020-03-21 10:30:00,365,,pending,pending,pending,pending
+2020-03-21 10:30:00,366,,pending,pending,pending,pending
+2020-03-21 10:30:00,367,,pending,pending,pending,pending
+2020-03-21 10:30:00,368,,pending,pending,pending,pending
+2020-03-21 10:30:00,369,,pending,pending,pending,pending
+2020-03-21 10:30:00,370,,pending,pending,pending,pending
+2020-03-21 10:30:00,371,,pending,pending,pending,pending
+2020-03-21 10:30:00,372,,pending,pending,pending,pending
+2020-03-21 10:30:00,373,,pending,pending,pending,pending
+2020-03-21 10:30:00,374,,pending,pending,pending,pending
+2020-03-21 10:30:00,375,,pending,pending,pending,pending
+2020-03-21 10:30:00,376,,pending,pending,pending,pending
+2020-03-21 10:30:00,377,,pending,pending,pending,pending
+2020-03-22 10:30:00,378,,20s female,ottawa,self-isolating,pending
+2020-03-22 10:30:00,379,,30s male,eastern ontario,self-isolating,pending
+2020-03-22 10:30:00,380,,70s male,peel,pending,pending
+2020-03-22 10:30:00,381,,20s female,waterloo,self-isolating,close contact
+2020-03-22 10:30:00,382,,50s male,hamilton,self-isolating,travel (caribbean cruise)
+2020-03-22 10:30:00,383,,60s male,windsor essex,self-isolating,travel (caribbean)
+2020-03-22 10:30:00,384,,30s male,toronto,pending,pending
+2020-03-22 10:30:00,385,,pending,pending,pending,pending
+2020-03-22 10:30:00,386,,pending,pending,pending,pending
+2020-03-22 10:30:00,387,,pending,pending,pending,pending
+2020-03-22 10:30:00,388,,pending,pending,pending,pending
+2020-03-22 10:30:00,389,,pending,pending,pending,pending
+2020-03-22 10:30:00,390,,pending,pending,pending,pending
+2020-03-22 10:30:00,391,,pending,pending,pending,pending
+2020-03-22 10:30:00,392,,pending,pending,pending,pending
+2020-03-22 10:30:00,393,,pending,pending,pending,pending
+2020-03-22 10:30:00,394,,pending,pending,pending,pending
+2020-03-22 10:30:00,395,,pending,pending,pending,pending
+2020-03-22 10:30:00,396,,pending,pending,pending,pending
+2020-03-22 10:30:00,397,,pending,pending,pending,pending
+2020-03-22 10:30:00,398,,pending,pending,pending,pending
+2020-03-22 10:30:00,399,,pending,pending,pending,pending
+2020-03-22 10:30:00,400,,pending,pending,pending,pending
+2020-03-22 10:30:00,401,,pending,pending,pending,pending
+2020-03-22 10:30:00,402,,pending,pending,pending,pending
+2020-03-22 10:30:00,403,,pending,pending,pending,pending
+2020-03-22 10:30:00,404,,pending,pending,pending,pending
+2020-03-22 10:30:00,405,,pending,pending,pending,pending
+2020-03-22 10:30:00,406,,pending,pending,pending,pending
+2020-03-22 10:30:00,407,,pending,pending,pending,pending
+2020-03-22 10:30:00,408,,pending,pending,pending,pending
+2020-03-22 10:30:00,409,,pending,pending,pending,pending
+2020-03-22 10:30:00,410,,pending,pending,pending,pending
+2020-03-22 10:30:00,411,,pending,pending,pending,pending
+2020-03-22 10:30:00,412,,pending,pending,pending,pending
+2020-03-22 10:30:00,413,,pending,pending,pending,pending
+2020-03-22 10:30:00,414,,pending,pending,pending,pending
+2020-03-22 10:30:00,415,,pending,pending,pending,pending
+2020-03-22 10:30:00,416,,pending,pending,pending,pending
+2020-03-22 10:30:00,417,,pending,pending,pending,pending
+2020-03-22 10:30:00,418,,pending,pending,pending,pending
+2020-03-22 10:30:00,419,,pending,pending,pending,pending
+2020-03-22 10:30:00,420,,pending,pending,pending,pending
+2020-03-22 10:30:00,421,,pending,pending,pending,pending
+2020-03-22 10:30:00,422,,pending,pending,pending,pending
+2020-03-22 10:30:00,423,,pending,pending,pending,pending
+2020-03-22 10:30:00,424,,pending,pending,pending,pending
+2020-03-22 17:30:00,378,,20s female,ottawa,self-isolating,pending
+2020-03-22 17:30:00,379,,30s male,eastern ontario,self-isolating,pending
+2020-03-22 17:30:00,380,,70s male,peel,pending,pending
+2020-03-22 17:30:00,381,,20s female,waterloo,self-isolating,close contact
+2020-03-22 17:30:00,382,,50s male,hamilton,self-isolating,travel (caribbean cruise)
+2020-03-22 17:30:00,383,,60s male,windsor essex,self-isolating,travel (caribbean)
+2020-03-22 17:30:00,384,,30s male,toronto,pending,pending
+2020-03-22 17:30:00,385,,pending,pending,pending,pending
+2020-03-22 17:30:00,386,,pending,pending,pending,pending
+2020-03-22 17:30:00,387,,pending,pending,pending,pending
+2020-03-22 17:30:00,388,,pending,pending,pending,pending
+2020-03-22 17:30:00,389,,pending,pending,pending,pending
+2020-03-22 17:30:00,390,,pending,pending,pending,pending
+2020-03-22 17:30:00,391,,pending,pending,pending,pending
+2020-03-22 17:30:00,392,,pending,pending,pending,pending
+2020-03-22 17:30:00,393,,pending,pending,pending,pending
+2020-03-22 17:30:00,394,,pending,pending,pending,pending
+2020-03-22 17:30:00,395,,pending,pending,pending,pending
+2020-03-22 17:30:00,396,,pending,pending,pending,pending
+2020-03-22 17:30:00,397,,pending,pending,pending,pending
+2020-03-22 17:30:00,398,,pending,pending,pending,pending
+2020-03-22 17:30:00,399,,pending,pending,pending,pending
+2020-03-22 17:30:00,400,,pending,pending,pending,pending
+2020-03-22 17:30:00,401,,pending,pending,pending,pending
+2020-03-22 17:30:00,402,,pending,pending,pending,pending
+2020-03-22 17:30:00,403,,pending,pending,pending,pending
+2020-03-22 17:30:00,404,,pending,pending,pending,pending
+2020-03-22 17:30:00,405,,pending,pending,pending,pending
+2020-03-22 17:30:00,406,,pending,pending,pending,pending
+2020-03-22 17:30:00,407,,pending,pending,pending,pending
+2020-03-22 17:30:00,408,,pending,pending,pending,pending
+2020-03-22 17:30:00,409,,pending,pending,pending,pending
+2020-03-22 17:30:00,410,,pending,pending,pending,pending
+2020-03-22 17:30:00,411,,pending,pending,pending,pending
+2020-03-22 17:30:00,412,,pending,pending,pending,pending
+2020-03-22 17:30:00,413,,pending,pending,pending,pending
+2020-03-22 17:30:00,414,,pending,pending,pending,pending
+2020-03-22 17:30:00,415,,pending,pending,pending,pending
+2020-03-22 17:30:00,416,,pending,pending,pending,pending
+2020-03-22 17:30:00,417,,pending,pending,pending,pending
+2020-03-22 17:30:00,418,,pending,pending,pending,pending
+2020-03-22 17:30:00,419,,pending,pending,pending,pending
+2020-03-22 17:30:00,420,,pending,pending,pending,pending
+2020-03-22 17:30:00,421,,pending,pending,pending,pending
+2020-03-22 17:30:00,422,,pending,pending,pending,pending
+2020-03-22 17:30:00,423,,pending,pending,pending,pending
+2020-03-22 17:30:00,424,,pending,pending,pending,pending
+2020-03-23 17:30:00,426,,80s male,haliburton kawartha pineridge,deceased,pending
+2020-03-23 17:30:00,427,,30s male,york,self-isolating,close contact
+2020-03-23 17:30:00,428,,50s male,york,self-isolating,close contact
+2020-03-23 17:30:00,429,,20s female,hastings prince edward,self-isolating,close contact
+2020-03-23 17:30:00,430,,40s male,peel,self-isolating,close contact
+2020-03-23 17:30:00,431,,50s male,toronto,self-isolating,pending
+2020-03-23 17:30:00,432,,30s female,york,self-isolating,pending
+2020-03-23 17:30:00,433,,40s pending,toronto,self-isolating,travel (usa)
+2020-03-23 17:30:00,434,,40s female,sudbury,self-isolating,travel (switzerland)
+2020-03-23 17:30:00,435,,< 18 female,ottawa,self-isolating,travel
+2020-03-23 17:30:00,436,,50s male,halton,self-isolating,"travel (puerto rico, st thomas, barbados)"
+2020-03-23 17:30:00,437,,60s female,simcoe muskoka,self-isolating,"travel (egypt, israel, london)"
+2020-03-23 17:30:00,438,,pending male,peel,self-isolating,close contact
+2020-03-23 17:30:00,439,,50s male,toronto,self-isolating,pending
+2020-03-23 17:30:00,440,,60s male,toronto,institution,pending
+2020-03-23 17:30:00,441,,20s female,toronto,self-isolating,travel (usa)
+2020-03-23 17:30:00,442,,40s male,halton,self-isolating,travel (jamaica)
+2020-03-23 17:30:00,443,,90s male,toronto,institution,pending
+2020-03-23 17:30:00,444,,60s male,wellington dufferin guelph,self-isolating,pending
+2020-03-23 17:30:00,445,,20s female,hamilton,pending,pending
+2020-03-23 17:30:00,446,,70s female,durham,hospitalized,pending
+2020-03-23 17:30:00,447,,20s male,toronto,self-isolating,travel (usa)
+2020-03-23 17:30:00,448,,80s female,peel,self-isolating,pending
+2020-03-23 17:30:00,449,,40s male,peel,self-isolating,close contact
+2020-03-23 17:30:00,450,,50s female,york,hospitalized,travel (usa)
+2020-03-23 17:30:00,451,,80s male,haliburton kawartha pineridge,self-isolating,pending
+2020-03-23 17:30:00,452,,40s male,waterloo,institution,pending
+2020-03-23 17:30:00,453,,50s female,ottawa,self-isolating,close contact
+2020-03-23 17:30:00,454,,20s female,toronto,self-isolating,"travel (london, dubai)"
+2020-03-23 17:30:00,455,,90s female,toronto,institution,pending
+2020-03-23 17:30:00,456,,40s pending,toronto,self-isolating,pending
+2020-03-23 17:30:00,457,,60s female,eastern ontario,self-isolating,close contact
+2020-03-23 17:30:00,458,,70s male,peel,self-isolating,travel (italy)
+2020-03-23 17:30:00,459,,60s male,york,self-isolating,close contact
+2020-03-23 17:30:00,460,,70s female,"kingston, frontenac, lennox and addington",hospitalized,pending
+2020-03-23 17:30:00,461,,30s male,york,self-isolating,travel (usa)
+2020-03-23 17:30:00,462,,50s male,ottawa,hospitalized,pending
+2020-03-23 17:30:00,463,,90s pending,toronto,institution,pending
+2020-03-23 17:30:00,464,,40s male,durham,hospitalized,pending
+2020-03-23 17:30:00,465,,30s female,toronto,hospitalized,pending
+2020-03-23 17:30:00,466,,40s male,peel,self-isolating,close contact
+2020-03-23 17:30:00,467,,40s female,toronto,self-isolating,close contact
+2020-03-23 17:30:00,468,,20s female,toronto,self-isolating,travel (spain)
+2020-03-23 17:30:00,469,,40s male,york,self-isolating,travel (costa rica)
+2020-03-23 17:30:00,470,,60s female,york,self-isolating,close contact
+2020-03-23 17:30:00,471,,70s male,hamilton,self-isolating,close contact
+2020-03-23 17:30:00,472,,70s female,hamilton,self-isolating,close contact
+2020-03-23 17:30:00,473,,70s male,durham,self-isolating,close contact
+2020-03-23 17:30:00,474,,40s male,toronto,self-isolating,close contact
+2020-03-23 17:30:00,475,,pending,pending,pending,pending
+2020-03-23 17:30:00,476,,pending,pending,pending,pending
+2020-03-23 17:30:00,477,,pending,pending,pending,pending
+2020-03-23 17:30:00,478,,pending,pending,pending,pending
+2020-03-23 17:30:00,479,,pending,pending,pending,pending
+2020-03-23 17:30:00,480,,pending,pending,pending,pending
+2020-03-23 17:30:00,481,,pending,pending,pending,pending
+2020-03-23 17:30:00,482,,pending,pending,pending,pending
+2020-03-23 17:30:00,483,,pending,pending,pending,pending
+2020-03-23 17:30:00,484,,pending,pending,pending,pending
+2020-03-23 17:30:00,485,,pending,pending,pending,pending
+2020-03-23 17:30:00,486,,pending,pending,pending,pending
+2020-03-23 17:30:00,487,,pending,pending,pending,pending
+2020-03-23 17:30:00,488,,pending,pending,pending,pending
+2020-03-23 17:30:00,489,,pending,pending,pending,pending
+2020-03-23 17:30:00,490,,pending,pending,pending,pending
+2020-03-23 17:30:00,491,,pending,pending,pending,pending
+2020-03-23 17:30:00,492,,pending,pending,pending,pending
+2020-03-23 17:30:00,493,,pending,pending,pending,pending
+2020-03-23 17:30:00,494,,pending,pending,pending,pending
+2020-03-23 17:30:00,495,,pending,pending,pending,pending
+2020-03-23 17:30:00,496,,pending,pending,pending,pending
+2020-03-23 17:30:00,497,,pending,pending,pending,pending
+2020-03-23 17:30:00,498,,pending,pending,pending,pending
+2020-03-23 17:30:00,499,,pending,pending,pending,pending
+2020-03-23 17:30:00,500,,pending,pending,pending,pending
+2020-03-23 17:30:00,501,,pending,pending,pending,pending
+2020-03-23 17:30:00,502,,pending,pending,pending,pending
+2020-03-23 17:30:00,503,,pending,pending,pending,pending
+2020-03-24 10:30:00,504,,30s male,kingston frontenac lennox addington,self-isolating,travel (uk)
+2020-03-24 10:30:00,505,,70s female,kingston frontenac lennox addington,self-isolating,travel (singapore)
+2020-03-24 10:30:00,506,,70s male,kingston frontenac lennox addington,self-isolating,travel (singapore)
+2020-03-24 10:30:00,507,,40s female,waterloo,self-isolating,pending
+2020-03-24 10:30:00,508,,30s female,toronto,self-isolating,pending
+2020-03-24 10:30:00,509,,40s female,brant,self-isolating,pending
+2020-03-24 10:30:00,510,,20s female,peel,self-isolating,pending
+2020-03-24 10:30:00,511,,30s female,halton,self-isolating,travel (uk)
+2020-03-24 10:30:00,512,,80s male,wellington dufferin guelph,hospitalized,pending
+2020-03-24 10:30:00,513,,30s female,grey bruce,self-isolating,travel (italy)
+2020-03-24 10:30:00,514,,40s male,windsor essex,self-isolating,travel (usa)
+2020-03-24 10:30:00,515,,50s female,hamilton,pending,pending
+2020-03-24 10:30:00,516,,30s female,hamilton,self-isolating,close contact
+2020-03-24 10:30:00,517,,60s male,hamilton,pending,pending
+2020-03-24 10:30:00,518,,40s male,niagara,pending,pending
+2020-03-24 10:30:00,519,,60s male,waterloo,hospitalized,pending
+2020-03-24 10:30:00,520,,30s female,ottawa,self-isolating,close contact
+2020-03-24 10:30:00,521,,40s male,ottawa,self-isolating,close contact
+2020-03-24 10:30:00,522,,30s male,toronto,self-isolating,close contact
+2020-03-24 10:30:00,523,,80s male,york,self-isolating,pending
+2020-03-24 10:30:00,524,,40s male,york,self-isolating,pending
+2020-03-24 10:30:00,525,,60s female,york,pending,close contact
+2020-03-24 10:30:00,526,,60s male,toronto,self-isolating,pending
+2020-03-24 10:30:00,527,,50s female,toronto,self-isolating,pending
+2020-03-24 10:30:00,528,,70s female,sudbury,self-isolating,travel (usa)
+2020-03-24 10:30:00,529,,50s female,peel,self-isolating,travel (dubai)
+2020-03-24 10:30:00,530,,50s male,ottawa,self-isolating,travel (usa)
+2020-03-24 10:30:00,531,,30s male,toronto,pending,pending
+2020-03-24 10:30:00,532,,70s male,toronto,pending,pending
+2020-03-24 10:30:00,533,,50s male,toronto,pending,pending
+2020-03-24 10:30:00,534,,70s male,toronto,pending,pending
+2020-03-24 10:30:00,535,,20s female,toronto,pending,pending
+2020-03-24 10:30:00,536,,60s male,toronto,pending,pending
+2020-03-24 10:30:00,537,,50s female,durham,self-isolation,travel (usa)
+2020-03-24 10:30:00,538,,70s male,york,self-isolation,travel (usa)
+2020-03-24 10:30:00,539,,40s male,durham,self-isolation,travel
+2020-03-24 10:30:00,540,,50s male,toronto,self-isolation,travel (usa)
+2020-03-24 10:30:00,541,,50s male,toronto,self-isolation,travel (austria)
+2020-03-24 10:30:00,542,,30s female,toronto,self-isolation,travel (usa)
+2020-03-24 10:30:00,543,,60s male,york,self-isolation,pending
+2020-03-24 10:30:00,544,,60s female,peel,self-isolation,travel (dubai)
+2020-03-24 10:30:00,545,,50s female,toronto,pending,pending
+2020-03-24 10:30:00,546,,50s male,toronto,self-isolation,travel (austria)
+2020-03-24 10:30:00,547,,50s female,toronto,self-isolation,travel (austria)
+2020-03-24 10:30:00,548,,30s male,toronto,self-isolation,travel (brazil)
+2020-03-24 10:30:00,549,,90s male,durham,deceased,pending
+2020-03-24 10:30:00,550,,pending,pending,pending,pending
+2020-03-24 10:30:00,551,,pending,pending,pending,pending
+2020-03-24 10:30:00,552,,pending,pending,pending,pending
+2020-03-24 10:30:00,553,,pending,pending,pending,pending
+2020-03-24 10:30:00,554,,pending,pending,pending,pending
+2020-03-24 10:30:00,555,,pending,pending,pending,pending
+2020-03-24 10:30:00,556,,pending,pending,pending,pending
+2020-03-24 10:30:00,557,,pending,pending,pending,pending
+2020-03-24 10:30:00,558,,pending,pending,pending,pending
+2020-03-24 10:30:00,559,,pending,pending,pending,pending
+2020-03-24 10:30:00,560,,pending,pending,pending,pending
+2020-03-24 10:30:00,561,,pending,pending,pending,pending
+2020-03-24 10:30:00,562,,pending,pending,pending,pending
+2020-03-24 10:30:00,563,,pending,pending,pending,pending
+2020-03-24 10:30:00,564,,pending,pending,pending,pending
+2020-03-24 10:30:00,565,,pending,pending,pending,pending
+2020-03-24 10:30:00,566,,pending,pending,pending,pending
+2020-03-24 10:30:00,567,,pending,pending,pending,pending
+2020-03-24 10:30:00,568,,pending,pending,pending,pending
+2020-03-24 10:30:00,569,,pending,pending,pending,pending
+2020-03-24 10:30:00,570,,pending,pending,pending,pending
+2020-03-24 10:30:00,571,,pending,pending,pending,pending
+2020-03-24 10:30:00,572,,pending,pending,pending,pending
+2020-03-24 10:30:00,573,,pending,pending,pending,pending
+2020-03-24 10:30:00,574,,pending,pending,pending,pending
+2020-03-24 10:30:00,575,,pending,pending,pending,pending
+2020-03-24 10:30:00,576,,pending,pending,pending,pending
+2020-03-24 10:30:00,577,,pending,pending,pending,pending
+2020-03-24 10:30:00,578,,pending,pending,pending,pending
+2020-03-24 10:30:00,579,,pending,pending,pending,pending
+2020-03-24 10:30:00,580,,pending,pending,pending,pending
+2020-03-24 10:30:00,581,,pending,pending,pending,pending
+2020-03-24 10:30:00,582,,pending,pending,pending,pending
+2020-03-24 10:30:00,583,,pending,pending,pending,pending
+2020-03-24 10:30:00,584,,pending,pending,pending,pending
+2020-03-24 10:30:00,585,,pending,pending,pending,pending
+2020-03-24 10:30:00,586,,pending,pending,pending,pending
+2020-03-24 10:30:00,587,,pending,pending,pending,pending
+2020-03-24 10:30:00,588,,pending,pending,pending,pending
+2020-03-25 10:30:00,589,,70s male,wellington dufferin guelph,self-isolating,"travel (spain, france)"
+2020-03-25 10:30:00,590,,20s female,york,self-isolating,travel (dominican)
+2020-03-25 10:30:00,591,,40s female,toronto,self-isolating,pending
+2020-03-25 10:30:00,592,,30s male,peel,self-isolating,pending
+2020-03-25 10:30:00,593,,60s male,peel,self-isolating,travel (uk)
+2020-03-25 10:30:00,594,,30s male,halton,self-isolating,close contact
+2020-03-25 10:30:00,595,,60s male,peel,self-isolating,pending
+2020-03-25 10:30:00,596,,50s female,porcupine district,hospitalized,pending
+2020-03-25 10:30:00,597,,50s male,porcupine district,hospitalized,close contact
+2020-03-25 10:30:00,598,,30s male,durham,self-isolating,close contact
+2020-03-25 10:30:00,599,,40s male,toronto,self-isolating,close contact
+2020-03-25 10:30:00,600,,30s male,toronto,pending,close contact
+2020-03-25 10:30:00,601,,50s female,toronto,self-isolating,close contact
+2020-03-25 10:30:00,602,,70s male,porcupine district,self-isolating,travel (usa)
+2020-03-25 10:30:00,603,,60s male,windsor essex,self-isolating,travel (usa)
+2020-03-25 10:30:00,604,,80s female,middlesex london,hospitalized,close contact
+2020-03-25 10:30:00,605,,70s female,middlesex london,self-isolating,travel (philippines)
+2020-03-25 10:30:00,606,,50s female,hamilton,pending,pending
+2020-03-25 10:30:00,607,,30s male,halton,pending,pending
+2020-03-25 10:30:00,608,,40s female,hamilton,pending,pending
+2020-03-25 10:30:00,609,,70s female,hamilton,pending,pending
+2020-03-25 10:30:00,610,,70s female,hamilton,pending,pending
+2020-03-25 10:30:00,611,,70s female,halton,hospitalized,travel (spain)
+2020-03-25 10:30:00,612,,20s male,simcoe muskoka,self-isolating,pending
+2020-03-25 10:30:00,613,,40s male,windsor essex,pending,pending
+2020-03-25 10:30:00,614,,20s male,kingston frontenac lennox addington,self-isolating,travel (mexico)
+2020-03-25 10:30:00,615,,50s female,hastings prince edward,self-isolating,travel (usa)
+2020-03-25 10:30:00,616,,50s female,haliburton kawartha pineridge,self-isolating,travel (spain)
+2020-03-25 10:30:00,617,,< 18 female,kingston frontenac lennox addington,self-isolating,close contact
+2020-03-25 10:30:00,618,,<18 male,kingston frontenac lennox addington,self-isolating,close contact
+2020-03-25 10:30:00,619,,40s male,kingston frontenac lennox addington,pending,close contact
+2020-03-25 10:30:00,620,,70s female,hastings prince edward,self-isolating,travel (bahamas)
+2020-03-25 10:30:00,621,,30s male,toronto,self-isolating,travel (spain)
+2020-03-25 10:30:00,622,,60s female,toronto,pending,pending
+2020-03-25 10:30:00,623,,50s female,toronto,pending,pending
+2020-03-25 10:30:00,624,,60s male,toronto,pending,pending
+2020-03-25 10:30:00,625,,40s male,toronto,pending,pending
+2020-03-25 10:30:00,626,,90s female,toronto,pending,pending
+2020-03-25 10:30:00,627,,40s female,niagara,self-isolating,travel (usa)
+2020-03-25 10:30:00,628,,30s female,toronto,self-isolating,close contact
+2020-03-25 10:30:00,629,,30s male,toronto,self-isolating,pending
+2020-03-25 10:30:00,630,,50s female,york,pending,pending
+2020-03-25 10:30:00,631,,40s female,toronto,pending,pending
+2020-03-25 10:30:00,632,,30s female,toronto,self-isolating,close contact
+2020-03-25 10:30:00,633,,20s female,peel,self-isolating,close contact
+2020-03-25 10:30:00,634,,70s female,peterborough,self-isolating,travel (usa)
+2020-03-25 10:30:00,635,,50s female,peel,self-isolating,travel (peru)
+2020-03-25 10:30:00,636,,30s female,toronto,self-isolating,close contact
+2020-03-25 10:30:00,637,,30s male,toronto,self-isolating,travel (usa)
+2020-03-25 10:30:00,638,,20s male,york,self-isolating,close contact
+2020-03-25 10:30:00,639,,20s male,york,pending,travel (uk)
+2020-03-25 10:30:00,640,,40s male,york,pending,close contact
+2020-03-25 10:30:00,641,,40s male,halton,self-isolating,close contact
+2020-03-25 10:30:00,642,,< 20 male,toronto,self-isolating,pending
+2020-03-25 10:30:00,643,,70s male,toronto,self-isolating,travel (usa)
+2020-03-25 10:30:00,644,,20s male,peel,self-isolating,pending
+2020-03-25 10:30:00,645,,30s female,kingston frontenac lennox addington,self-isolating,close contact
+2020-03-25 10:30:00,646,,< 20 male,peel,self-isolating,pending
+2020-03-25 10:30:00,647,,70s male,peel,pending,travel (egypt)
+2020-03-25 10:30:00,648,,< 20 male,peel,self-isolating,pending
+2020-03-25 10:30:00,649,,50s male,toronto,self-isolating,pending
+2020-03-25 10:30:00,650,,30s male,timiskaming,self-isolating,close contact
+2020-03-25 10:30:00,651,,80s female,toronto,self-isolating,close contact
+2020-03-25 10:30:00,652,,60s male,peterborough,self-isolating,close contact
+2020-03-25 10:30:00,653,,20s female,peel,self-isolating,travel (usa)
+2020-03-25 10:30:00,654,,60s male,peel,self-isolating,close contact
+2020-03-25 10:30:00,655,,50s male,peel,self-isolating,travel (usa)
+2020-03-25 10:30:00,656,,20s female,peel,hospitalized,pending
+2020-03-25 10:30:00,657,,20s female,toronto,self-isolating,"travel (uk, usa)"
+2020-03-25 10:30:00,658,,pending,pending,pending,pending
+2020-03-25 10:30:00,659,,pending,pending,pending,pending
+2020-03-25 10:30:00,660,,pending,pending,pending,pending
+2020-03-25 10:30:00,661,,pending,pending,pending,pending
+2020-03-25 10:30:00,662,,pending,pending,pending,pending
+2020-03-25 10:30:00,663,,pending,pending,pending,pending
+2020-03-25 10:30:00,664,,pending,pending,pending,pending
+2020-03-25 10:30:00,665,,pending,pending,pending,pending
+2020-03-25 10:30:00,666,,pending,pending,pending,pending
+2020-03-25 10:30:00,667,,pending,pending,pending,pending
+2020-03-25 10:30:00,668,,pending,pending,pending,pending
+2020-03-25 10:30:00,669,,pending,pending,pending,pending
+2020-03-25 10:30:00,670,,pending,pending,pending,pending
+2020-03-25 10:30:00,671,,pending,pending,pending,pending
+2020-03-25 10:30:00,672,,pending,pending,pending,pending
+2020-03-25 10:30:00,673,,pending,pending,pending,pending
+2020-03-25 10:30:00,674,,pending,pending,pending,pending
+2020-03-25 10:30:00,675,,pending,pending,pending,pending
+2020-03-25 10:30:00,676,,pending,pending,pending,pending
+2020-03-25 10:30:00,677,,pending,pending,pending,pending
+2020-03-25 10:30:00,678,,pending,pending,pending,pending
+2020-03-25 10:30:00,679,,pending,pending,pending,pending
+2020-03-25 10:30:00,680,,pending,pending,pending,pending
+2020-03-25 10:30:00,681,,pending,pending,pending,pending
+2020-03-25 10:30:00,682,,pending,pending,pending,pending
+2020-03-25 10:30:00,683,,pending,pending,pending,pending
+2020-03-25 10:30:00,684,,pending,pending,pending,pending
+2020-03-25 10:30:00,685,,pending,pending,pending,pending
+2020-03-25 10:30:00,686,,pending,pending,pending,pending
+2020-03-25 10:30:00,687,,pending,pending,pending,pending
+2020-03-25 10:30:00,688,,pending,pending,pending,pending
+2020-03-25 17:30:00,589,,70s male,wellington dufferin guelph,self-isolating,"travel (spain, france)"
+2020-03-25 17:30:00,590,,20s female,york,self-isolating,travel (dominican)
+2020-03-25 17:30:00,591,,40s female,toronto,self-isolating,pending
+2020-03-25 17:30:00,592,,30s male,peel,self-isolating,pending
+2020-03-25 17:30:00,593,,60s male,peel,self-isolating,travel (uk)
+2020-03-25 17:30:00,594,,30s male,halton,self-isolating,close contact
+2020-03-25 17:30:00,595,,60s male,peel,self-isolating,pending
+2020-03-25 17:30:00,596,,50s female,porcupine district,hospitalized,pending
+2020-03-25 17:30:00,597,,50s male,porcupine district,hospitalized,close contact
+2020-03-25 17:30:00,598,,30s male,durham,self-isolating,close contact
+2020-03-25 17:30:00,599,,40s male,toronto,self-isolating,close contact
+2020-03-25 17:30:00,600,,30s male,toronto,pending,close contact
+2020-03-25 17:30:00,601,,50s female,toronto,self-isolating,close contact
+2020-03-25 17:30:00,602,,70s male,porcupine district,self-isolating,travel (usa)
+2020-03-25 17:30:00,603,,60s male,windsor essex,self-isolating,travel (usa)
+2020-03-25 17:30:00,604,,80s female,middlesex london,hospitalized,close contact
+2020-03-25 17:30:00,605,,70s female,middlesex london,self-isolating,travel (philippines)
+2020-03-25 17:30:00,606,,50s female,hamilton,pending,pending
+2020-03-25 17:30:00,607,,30s male,halton,pending,pending
+2020-03-25 17:30:00,608,,40s female,hamilton,pending,pending
+2020-03-25 17:30:00,609,,70s female,hamilton,pending,pending
+2020-03-25 17:30:00,610,,70s female,hamilton,pending,pending
+2020-03-25 17:30:00,611,,70s female,halton,hospitalized,travel (spain)
+2020-03-25 17:30:00,612,,20s male,simcoe muskoka,self-isolating,pending
+2020-03-25 17:30:00,613,,40s male,windsor essex,pending,pending
+2020-03-25 17:30:00,614,,20s male,kingston frontenac lennox addington,self-isolating,travel (mexico)
+2020-03-25 17:30:00,615,,50s female,hastings prince edward,self-isolating,travel (usa)
+2020-03-25 17:30:00,616,,50s female,haliburton kawartha pineridge,self-isolating,travel (spain)
+2020-03-25 17:30:00,617,,< 18 female,kingston frontenac lennox addington,self-isolating,close contact
+2020-03-25 17:30:00,618,,<18 male,kingston frontenac lennox addington,self-isolating,close contact
+2020-03-25 17:30:00,619,,40s male,kingston frontenac lennox addington,pending,close contact
+2020-03-25 17:30:00,620,,70s female,hastings prince edward,self-isolating,travel (bahamas)
+2020-03-25 17:30:00,621,,30s male,toronto,self-isolating,travel (spain)
+2020-03-25 17:30:00,622,,60s female,toronto,pending,pending
+2020-03-25 17:30:00,623,,50s female,toronto,pending,pending
+2020-03-25 17:30:00,624,,60s male,toronto,pending,pending
+2020-03-25 17:30:00,625,,40s male,toronto,pending,pending
+2020-03-25 17:30:00,626,,90s female,toronto,pending,pending
+2020-03-25 17:30:00,627,,40s female,niagara,self-isolating,travel (usa)
+2020-03-25 17:30:00,628,,30s female,toronto,self-isolating,close contact
+2020-03-25 17:30:00,629,,30s male,toronto,self-isolating,pending
+2020-03-25 17:30:00,630,,50s female,york,pending,pending
+2020-03-25 17:30:00,631,,40s female,toronto,pending,pending
+2020-03-25 17:30:00,632,,30s female,toronto,self-isolating,close contact
+2020-03-25 17:30:00,633,,20s female,peel,self-isolating,close contact
+2020-03-25 17:30:00,634,,70s female,peterborough,self-isolating,travel (usa)
+2020-03-25 17:30:00,635,,50s female,peel,self-isolating,travel (peru)
+2020-03-25 17:30:00,636,,30s female,toronto,self-isolating,close contact
+2020-03-25 17:30:00,637,,30s male,toronto,self-isolating,travel (usa)
+2020-03-25 17:30:00,638,,20s male,york,self-isolating,close contact
+2020-03-25 17:30:00,639,,20s male,york,pending,travel (uk)
+2020-03-25 17:30:00,640,,40s male,york,pending,close contact
+2020-03-25 17:30:00,641,,40s male,halton,self-isolating,close contact
+2020-03-25 17:30:00,642,,< 20 male,toronto,self-isolating,pending
+2020-03-25 17:30:00,643,,70s male,toronto,self-isolating,travel (usa)
+2020-03-25 17:30:00,644,,20s male,peel,self-isolating,pending
+2020-03-25 17:30:00,645,,30s female,kingston frontenac lennox addington,self-isolating,close contact
+2020-03-25 17:30:00,646,,< 20 male,peel,self-isolating,pending
+2020-03-25 17:30:00,647,,70s male,peel,pending,travel (egypt)
+2020-03-25 17:30:00,648,,< 20 male,peel,self-isolating,pending
+2020-03-25 17:30:00,649,,50s male,toronto,self-isolating,pending
+2020-03-25 17:30:00,650,,30s male,timiskaming,self-isolating,close contact
+2020-03-25 17:30:00,651,,80s female,toronto,self-isolating,close contact
+2020-03-25 17:30:00,652,,60s male,peterborough,self-isolating,close contact
+2020-03-25 17:30:00,653,,20s female,peel,self-isolating,travel (usa)
+2020-03-25 17:30:00,654,,60s male,peel,self-isolating,close contact
+2020-03-25 17:30:00,655,,50s male,peel,self-isolating,travel (usa)
+2020-03-25 17:30:00,656,,20s female,peel,hospitalized,pending
+2020-03-25 17:30:00,657,,20s female,toronto,self-isolating,"travel (uk, usa)"
+2020-03-25 17:30:00,658,,pending,pending,pending,pending
+2020-03-25 17:30:00,659,,pending,pending,pending,pending
+2020-03-25 17:30:00,660,,pending,pending,pending,pending
+2020-03-25 17:30:00,661,,pending,pending,pending,pending
+2020-03-25 17:30:00,662,,pending,pending,pending,pending
+2020-03-25 17:30:00,663,,pending,pending,pending,pending
+2020-03-25 17:30:00,664,,pending,pending,pending,pending
+2020-03-25 17:30:00,665,,pending,pending,pending,pending
+2020-03-25 17:30:00,666,,pending,pending,pending,pending
+2020-03-25 17:30:00,667,,pending,pending,pending,pending
+2020-03-25 17:30:00,668,,pending,pending,pending,pending
+2020-03-25 17:30:00,669,,pending,pending,pending,pending
+2020-03-25 17:30:00,670,,pending,pending,pending,pending
+2020-03-25 17:30:00,671,,pending,pending,pending,pending
+2020-03-25 17:30:00,672,,pending,pending,pending,pending
+2020-03-25 17:30:00,673,,pending,pending,pending,pending
+2020-03-25 17:30:00,674,,pending,pending,pending,pending
+2020-03-25 17:30:00,675,,pending,pending,pending,pending
+2020-03-25 17:30:00,676,,pending,pending,pending,pending
+2020-03-25 17:30:00,677,,pending,pending,pending,pending
+2020-03-25 17:30:00,678,,pending,pending,pending,pending
+2020-03-25 17:30:00,679,,pending,pending,pending,pending
+2020-03-25 17:30:00,680,,pending,pending,pending,pending
+2020-03-25 17:30:00,681,,pending,pending,pending,pending
+2020-03-25 17:30:00,682,,pending,pending,pending,pending
+2020-03-25 17:30:00,683,,pending,pending,pending,pending
+2020-03-25 17:30:00,684,,pending,pending,pending,pending
+2020-03-25 17:30:00,685,,pending,pending,pending,pending
+2020-03-25 17:30:00,686,,pending,pending,pending,pending
+2020-03-25 17:30:00,687,,pending,pending,pending,pending
+2020-03-25 17:30:00,688,,pending,pending,pending,pending

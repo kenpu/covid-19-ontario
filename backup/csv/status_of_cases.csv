@@ -1,0 +1,76 @@
+last_update,approved_testing,negative,positive_confirmed,positive_presumptive,resolved
+2020-02-18 10:30:00,421,418,2,,1
+2020-02-19 10:30:00,456,436,2,,1
+2020-02-20 10:30:00,479,462,1,,2
+2020-02-24 10:30:00,553,540,1,,3
+2020-02-26 10:30:00,629,610,1,1,3
+2020-03-05 10:30:00,1566,1466,18,,4
+2020-03-06 10:30:00,1763,1665,22,,4
+2020-03-07 10:30:00,1982,1918,24,,4
+2020-03-09 10:30:00,2404,2347,31,,4
+2020-03-10 10:30:00,2747,2599,31,,5
+2020-03-11 10:30:00,3395,2888,37,,5
+2020-03-12 10:30:00,4185,3590,54,,5
+2020-03-13 10:30:00,5129,4470,74,,5
+2020-03-14 10:30:00,6646,5606,96,,5
+2020-03-14 17:30:00,6648,5606,98,,5
+2020-03-15 10:30:00,8462,7004,137,,5
+2020-03-15 17:30:00,8465,7004,140,,5
+2020-03-16 10:30:00,10178,8464,172,,5
+2020-03-16 17:30:00,10178,8464,172,,5
+2020-03-17 10:30:00,11167,9415,180,,5
+2020-03-17 17:30:00,11171,9415,183,,5
+2020-03-18 10:30:00,13897,10305,206,,5
+2020-03-19 10:30:00,16650,12421,251,,5
+2020-03-19 17:30:00,16650,12421,251,,5
+2020-03-20 17:30:00,19511,13718,311,5
+2020-03-20 17:30:00,259,40s male,hamilton,self-isolating,travel (usa)
+2020-03-20 17:30:00,260,30s male,peterborough,self-isolating,close contact
+2020-03-20 17:30:00,261,60s female,"haliburton, kawartha, pine ridge district",self-isolating,travel (cruise)
+2020-03-20 17:30:00,262,60s male,"haliburton, kawartha, pine ridge district",self-isolating,travel (cruise)
+2020-03-20 17:30:00,263,70s female,durham,self-isolating,travel (caribbean cruise)
+2020-03-20 17:30:00,264,80s male,hastings prince edward,self-isolating,travel (bahamas)
+2020-03-20 17:30:00,265,60s male,durham,ltch,pending
+2020-03-20 17:30:00,266,90s female,durham,ltch,pending
+2020-03-20 17:30:00,267,80s female,durham,ltch,pending
+2020-03-20 17:30:00,268,70s male,durham,ltch,pending
+2020-03-20 17:30:00,269,80s male,ottawa,self-isolating,travel (portugal)
+2020-03-20 17:30:00,270,40s male,ottawa,self-isolating,close contact
+2020-03-20 17:30:00,271,40s male,ottawa,self-isolating,close contact
+2020-03-20 17:30:00,272,70s female,hamilton,self-isolating,travel (caribbean cruise)
+2020-03-20 17:30:00,273,70s male,waterloo,hospitalized,pending
+2020-03-20 17:30:00,274,20s female,peel,self-isolating,close contact
+2020-03-20 17:30:00,275,40s female,toronto,self-isolating,close contact
+2020-03-20 17:30:00,276,40s male,peel,self-isolating,pending
+2020-03-20 17:30:00,277,20s female,waterloo,self-isolating,close contact
+2020-03-20 17:30:00,278,50s female,waterloo,self-isolating,travel (caribbean cruise)
+2020-03-20 17:30:00,279,20s male,waterloo,self-isolating,close contact
+2020-03-20 17:30:00,280,50s female,toronto,self-isolating,close contact
+2020-03-20 17:30:00,281,50s female,durham,hospitalized,close contact
+2020-03-20 17:30:00,282,30s male,york,self-isolating,travel (caribbean)
+2020-03-20 17:30:00,283,pending,pending,pending,pending
+2020-03-20 17:30:00,284,pending,pending,pending,pending
+2020-03-20 17:30:00,285,pending,pending,pending,pending
+2020-03-20 17:30:00,286,pending,pending,pending,pending
+2020-03-20 17:30:00,287,pending,pending,pending,pending
+2020-03-20 17:30:00,288,pending,pending,pending,pending
+2020-03-20 17:30:00,289,pending,pending,pending,pending
+2020-03-20 17:30:00,290,pending,pending,pending,pending
+2020-03-20 17:30:00,291,pending,pending,pending,pending
+2020-03-20 17:30:00,292,pending,pending,pending,pending
+2020-03-20 17:30:00,293,pending,pending,pending,pending
+2020-03-20 17:30:00,294,pending,pending,pending,pending
+2020-03-20 17:30:00,295,pending,pending,pending,pending
+2020-03-20 17:30:00,296,pending,pending,pending,pending
+2020-03-20 17:30:00,297,pending,pending,pending,pending
+2020-03-20 17:30:00,298,pending,pending,pending,pending
+2020-03-20 17:30:00,299,pending,pending,pending,pending
+2020-03-20 17:30:00,300,pending,pending,pending,pending
+2020-03-20 17:30:00,301,pending,pending,pending,pending
+2020-03-20 17:30:00,302,pending,pending,pending,pending
+2020-03-20 17:30:00,303,pending,pending,pending,pending
+2020-03-20 17:30:00,304,pending,pending,pending,pending
+2020-03-20 17:30:00,305,pending,pending,pending,pending
+2020-03-20 17:30:00,306,pending,pending,pending,pending
+2020-03-20 17:30:00,307,pending,pending,pending,pending
+2020-03-20 17:30:00,308,pending,pending,pending,pending

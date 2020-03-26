@@ -11,17 +11,18 @@ def list_snapshots():
             params=dict(url=url, output='json'))
     data = resp.json()
     columns = data[0]
-    return [dict(zip(columns, row)) for row in data[1:]]
+    return [dict(zip(columns, row)) for row in reversed(data[1:])]
 
 def wayback_url(t):
     return "https://web.archive.org/web/%s/%s" % (t, url)
 
-def get_snapshot(t):
+def get_snapshot(t, _url=None):
     filename = "%s.html" % t
     if os.path.exists(filename) and os.path.getsize(filename) > 0:
         raise Exception("Skipping %s" % t)
 
-    _url = wayback_url(t)
+    if not _url:
+        _url = wayback_url(t)
     cmd = ['google-chrome',
             '--headless', 
             '--disable-gpu', 
@@ -37,10 +38,12 @@ def get_snapshot(t):
         bytes = p.stdout
         f.write(bytes.decode('utf-8'))
 
-def download():
+def download(limit=10):
     os.chdir('./wayback_dumps')
-
-    for (i,data) in enumerate(list_snapshots()):
+    snapshots = list_snapshots()
+    if limit:
+        snapshots = snapshots[:limit]
+    for (i,data) in enumerate(snapshots):
         try:
             start = time.time()
             t = data['timestamp']
@@ -48,6 +51,5 @@ def download():
             print("[%d] [%.2f seconds] %s.html" % (i, time.time()-start, t))
         except Exception as e:
             print(str(e))
-
 
 download()

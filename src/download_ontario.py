@@ -1,3 +1,6 @@
+import requests
+import subprocess
+import time
 import os
 import csv
 import re
@@ -5,6 +8,23 @@ from bs4 import BeautifulSoup, NavigableString
 from collections import defaultdict
 from datetime import datetime
 from functools import reduce
+from pprint import pprint
+
+url = "https://www.ontario.ca/page/2019-novel-coronavirus"
+status_of_cases_csv = "./csv/status_of_cases.csv"
+cases_csv = "./csv/cases.csv"
+
+def get_snapshot():
+    cmd = ['google-chrome',
+            '--headless', 
+            '--disable-gpu', 
+            '--run-all-compositor-stages-before-draw', 
+            '--dump-dom', 
+            '--virtual-time-budget=10000',
+            url]
+    p = subprocess.run(cmd, stdout=subprocess.PIPE)
+    soup = BeautifulSoup(p.stdout, features='lxml')
+    return soup
 
 def is_status_of_cases_table(elem_table):
     text = elem_table.get_text().lower()
@@ -65,7 +85,7 @@ def last_update(soup):
         if isinstance(txt, NavigableString):
             txt = txt.lower()
             if txt.startswith("last updated:"):
-                return parse_time(txt)
+                return str(parse_time(txt))
 
 def get_case_table(soup):
     for elem in soup.find_all('thead'):
@@ -93,60 +113,44 @@ def get_cases(soup):
             row[0] = int(row[0])
             row[1:] = [clean_text(x) for x in row[1:]]
             yield dict(zip(columns, row))
-
-
-top_dir = './wayback_dumps'
-files = sorted([f for f in os.listdir(top_dir) if f.endswith(".html")])
-
-try:
-    csv_path = "./csv"
-    os.makedirs(csv_path)
-except:
-    pass
-
-# 
-# Status of cases
-#
-data = dict()
-for f in files:
-    path = os.path.join(top_dir, f)
-    with open(path, 'r') as f:
-        soup = BeautifulSoup(f, features='lxml')
-        timestamp = last_update(soup)
-        if timestamp:
-            data[timestamp] = dict(status_of_cases(soup))
-
-columns = sorted(reduce(lambda x,y: x|y.keys(), data.values(), set()))
-with open(os.path.join(csv_path, "status_of_cases.csv"), "w") as f:
-    writer = csv.writer(f)
-    writer.writerow(["last_update"] + columns)
-    for t, row in sorted(data.items()):
-        writer.writerow([t] + [row.get(k) for k in columns])
-
-#
-# Individual cases
-#
-
-data = dict()
-for f in files:
-    path = os.path.join(top_dir, f)
-    with open(path, 'r') as f:
-        soup = BeautifulSoup(f, features='lxml')
-        timestamp = last_update(soup)
-        if timestamp:
-            data[timestamp] = list(get_cases(soup))
-
-columns = set()
-for t, cases in data.items():
+            
+def save_status(t, status):
+    with open(status_of_cases_csv, 'r') as f:
+        rdr = csv.reader(f)
+        columns = next(rdr)
+        data = set(x[0] for x in rdr)
+    row = [t] + [status.get(c) for c in columns[1:]]
+    if t in data:
+        print("Skipping status: %s" % t)
+    else:
+        with open(status_of_cases_csv, 'a+') as f:
+            writer = csv.writer(f)
+            writer.writerow(row)
+            print("Saved: @%s %s" % (t, str(status)))
+            
+def save_cases(t, cases):
+    with open(cases_csv, 'r') as f:
+        rdr = csv.reader(f)
+        columns = next(rdr)
+        data = set(x[0] for x in rdr)
     for case in cases:
-        columns = columns | case.keys()
-columns = sorted(columns)
-
-with open(os.path.join(csv_path, "cases.csv"), "w") as f:
-    writer = csv.writer(f)
-    writer.writerow(["last_update"] + columns)
-    for t, cases in sorted(data.items()):
-        for case in cases:
-            writer.writerow([t] + [case.get(k) for k in columns])
-
-
+        row = [t] + [case.get(x) for x in columns[1:]]
+        if t in data:
+            print("Skipping case:", row)
+        else:
+            print("Saving:", row)
+            with open(cases_csv, 'a+') as f:
+                writer = csv.writer(f)
+                writer.writerow(row)
+                
+            
+if __name__ == '__main__':
+    soup = get_snapshot()
+    t = last_update(soup)
+    if t:
+        # Status
+        status = dict(status_of_cases(soup))
+        save_status(t, status)
+        # Cases
+        cases = list(get_cases(soup))
+        save_cases(t, cases)
